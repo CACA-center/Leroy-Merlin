@@ -1,0 +1,9 @@
+default_channels=16
+default_audiodevice=2
+default_videodevice='none'
+default_host='127.0.0.1'
+default_port='7777'
+default_listen=true
+
+
+
