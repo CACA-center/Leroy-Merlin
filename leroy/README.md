@@ -1,4 +1,4 @@
-![logo](media/leroy.png)
+![logo](../media/leroy.png)
 
 
 
