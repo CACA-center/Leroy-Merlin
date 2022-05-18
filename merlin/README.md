@@ -1,2 +1,2 @@
-![logo](../media/merlin.png)
+![logo](../stuff/merlin.png)
 flux receiver
