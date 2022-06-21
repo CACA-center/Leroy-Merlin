@@ -1,0 +1,11 @@
+default_channels=12
+default_audiodevice=2
+default_videodevice='none'
+default_guesslayout=0
+default_host='127.0.0.1'
+default_port='7777'
+default_listen=true
+default_way=tcp
+
+
+
